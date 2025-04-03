@@ -1,1 +1,9 @@
 .vs
+HotkeyHook .NET Framework/bin/
+HotkeyHook .NET Framework/obj/
+
+# User-specific settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
